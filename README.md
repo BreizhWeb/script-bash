@@ -28,7 +28,7 @@ Mon Magic Prompt est un script interactif en ligne de commande qui offre diverse
 
 1. **Clonez le repository :**
 ```bash
-git clone https://gitlab.com/votre-utilisateur/my-magic-prompt.git
+git clone https://github.com/BreizhWeb/script-bash.git
 ```
 
 2. **Naviguez vers le répertoire du script :**
